@@ -1,6 +1,6 @@
 lista = [8, 2, -5, "string", 2.7, ]
 # print(type(lista))
-# print(lista[3])
+print(lista[3])
 # print(lista[5]) # daca indexul nu exista apare eroare
 # print(lista[1:]) # afisam elementle de la indexul 1 inclusiv, pana la finalul listei
 # print(lista[1:3]) #
